@@ -1,5 +1,5 @@
 
-# Life of hotoo's baby
+# Life of hotoo&lizzie's baby
 
 - age: show
 - mention: https://github.com/{@mention}
